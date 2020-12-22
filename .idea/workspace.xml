@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdc19fe8-90d3-479a-9aa0-3b7345981c6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1la7xxd37fNpeSQn00pNBJjddAQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\file_system\src" />
+      <recent name="D:\Code\file_system\include" />
+      <recent name="D:\Code\file_system" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdc19fe8-90d3-479a-9aa0-3b7345981c6c" name="Default Changelist" comment="" />
+      <created>1607823598957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607823598957</updated>
+      <workItem from="1607823601730" duration="1630000" />
+      <workItem from="1608129697340" duration="6359000" />
+      <workItem from="1608180842545" duration="4940000" />
+      <workItem from="1608204074560" duration="12641000" />
+      <workItem from="1608254272712" duration="3606000" />
+      <workItem from="1608295130430" duration="4542000" />
+      <workItem from="1608476660255" duration="3707000" />
+      <workItem from="1608526314455" duration="10259000" />
+      <workItem from="1608552066332" duration="17879000" />
+      <workItem from="1608571223578" duration="4138000" />
+      <workItem from="1608600207989" duration="20043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1192" y="348" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608621363078">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1192" y="348" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1608621363078" />
+    <state x="1195" y="247" key="#xdebugger.evaluate" timestamp="1608572251398">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1195" y="247" key="#xdebugger.evaluate/0.0.2560.1080@0.0.2560.1080" timestamp="1608572251398" />
+    <state width="755" height="583" key="DebuggerActiveHint" timestamp="1608572249407">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="453" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1608569969737" />
+    <state width="755" height="583" key="DebuggerActiveHint/0.0.2560.1080@0.0.2560.1080" timestamp="1608572249407" />
+    <state width="1234" height="512" key="GridCell.Tab.0.bottom" timestamp="1608621930039">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="724" height="273" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608570049737" />
+    <state width="1234" height="512" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1608621930039" />
+    <state width="1234" height="512" key="GridCell.Tab.0.center" timestamp="1608621930039">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="724" height="273" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608570049736" />
+    <state width="1234" height="512" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1608621930039" />
+    <state width="1234" height="512" key="GridCell.Tab.0.left" timestamp="1608621930039">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="724" height="273" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608570049736" />
+    <state width="1234" height="512" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1608621930039" />
+    <state width="1234" height="512" key="GridCell.Tab.0.right" timestamp="1608621930039">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="724" height="273" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608570049736" />
+    <state width="1234" height="512" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1608621930039" />
+    <state width="1236" height="361" key="GridCell.Tab.1.bottom" timestamp="1608575401621">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="724" height="273" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608570049738" />
+    <state width="1236" height="361" key="GridCell.Tab.1.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1608575401621" />
+    <state width="1236" height="361" key="GridCell.Tab.1.center" timestamp="1608575401621">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="724" height="273" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608570049737" />
+    <state width="1236" height="361" key="GridCell.Tab.1.center/0.0.2560.1080@0.0.2560.1080" timestamp="1608575401621" />
+    <state width="1236" height="361" key="GridCell.Tab.1.left" timestamp="1608575401621">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="724" height="273" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608570049737" />
+    <state width="1236" height="361" key="GridCell.Tab.1.left/0.0.2560.1080@0.0.2560.1080" timestamp="1608575401621" />
+    <state width="1236" height="361" key="GridCell.Tab.1.right" timestamp="1608575401621">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="724" height="273" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608570049737" />
+    <state width="1236" height="361" key="GridCell.Tab.1.right/0.0.2560.1080@0.0.2560.1080" timestamp="1608575401621" />
+    <state x="895" y="82" key="refactoring.ChangeSignatureDialog" timestamp="1608552417663">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="895" y="82" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1608552417663" />
+    <state x="809" y="199" key="run.anything.popup" timestamp="1608566240220">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="809" y="199" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1608566240220" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="super_block" language="ObjectiveC" />
+        <watch expression="dir_ent" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
