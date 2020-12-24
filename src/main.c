@@ -8,8 +8,10 @@ int main() {
         printf("==>");
         char *cmd_buf = command_buf;
         memset(cmd_buf, 0, sizeof(command_buf));
-        gets(cmd_buf);
-        //printf("%s\n", cmd_buf);
+        fgets(cmd_buf, sizeof(command_buf),stdin);
+        if (cmd_buf[strlen(cmd_buf)-1] == '\n')
+            cmd_buf[strlen(cmd_buf)-1] = '\0';
+        printf("%s\n", cmd_buf);
         memset(command, 0, BUF_SIZE);
         cmd_buf = token_process(cmd_buf, command);
         memset(argv, 0, BUF_SIZE);
