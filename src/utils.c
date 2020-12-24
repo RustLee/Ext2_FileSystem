@@ -22,21 +22,6 @@ void buffer_write(char *buf,void *src,int buf_start,int size)
     }
 }
 
-//字节位置1
-void byte_set(uint32_t *bytes,int index)
-{//从左往右，从小到大
-    uint32_t temp = *bytes;
-    temp |= (1<<(31-index));
-    *bytes = temp;
-}
-//字节位置0
-void byte_reset(uint32_t *bytes,int index)
-{
-    uint32_t temp = *bytes;
-    temp &= ~(1<<(31-index));
-    *bytes = temp;
-}
-
 void inode_map_set(int inode_index, int bit)
 {
     int byte_index = inode_index / 32;

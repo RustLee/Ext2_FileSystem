@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="file_system" targetName="main" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -9,7 +11,45 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc19fe8-90d3-479a-9aa0-3b7345981c6c" name="Default Changelist" comment="" />
+    <list default="true" id="bdc19fe8-90d3-479a-9aa0-3b7345981c6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.10.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.10.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.10.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.10.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/src/Ext2.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/src/disk.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/src/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/main.dir/src/utils.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +57,10 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1la7xxd37fNpeSQn00pNBJjddAQ" />
   <component name="ProjectViewState">
@@ -27,6 +71,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -34,6 +79,13 @@
       <recent name="D:\Code\file_system\include" />
       <recent name="D:\Code\file_system" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="file_system" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="file_system" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -68,6 +120,11 @@
       <workItem from="1608552066332" duration="17879000" />
       <workItem from="1608571223578" duration="4138000" />
       <workItem from="1608600207989" duration="20043000" />
+      <workItem from="1608688668249" duration="549000" />
+      <workItem from="1608715749753" duration="202000" />
+      <workItem from="1608716028412" duration="1946000" />
+      <workItem from="1608775950122" duration="3567000" />
+      <workItem from="1608805916728" duration="467000" />
     </task>
     <servers />
   </component>

@@ -1,3 +1,0 @@
-/mnt/hgfs/Code/file_system/CMakeFiles/rebuild_cache.dir
-/mnt/hgfs/Code/file_system/CMakeFiles/main.dir
-/mnt/hgfs/Code/file_system/CMakeFiles/edit_cache.dir
